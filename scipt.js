@@ -6,7 +6,7 @@ let outPutDisplay = document.querySelector(".displayOutput")
 
 let hobbies = ["Dancing", "Singing" , "mIning", "cooking"]
 
-let numbers = [3 , 44 ,56, 434]
+let numbers = [3 , 44 ,56]
 
 
 let filtered = hobbies.filter((hobby)=>{
